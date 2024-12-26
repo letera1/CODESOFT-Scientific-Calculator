@@ -1,2 +1,4 @@
-# CODESOFT-Scientific-Calculator
-Python Projects
+what my project looks like
+
+<img src="preview.png" alt="description of the image">
+
